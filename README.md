@@ -42,8 +42,8 @@ I’m just a few keystrokes away—let's talk!!**
 - **FrontEnd:** [React](https://react.dev/)
 
 - **Language:** JavaScript
-- **Styling:** Tailwind CSS, Flat Icon
-- **3D Graphics:** Three.js, @react-three/fiber
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite), [Flat Icon](https://www.flaticon.com/)
+- **3D Graphics:** [Three.js](https://threejs.org/manual/#en/creating-a-scene), [SketchFab](https://sketchfab.com/), @react-three/fiber
 - **Services:** [EmailJs](https://www.emailjs.com/)
 ---
 
