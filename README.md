@@ -4,7 +4,7 @@
   <img src="src/assets/images/ss.png" alt="Project Banner (replace with your image)" width="1000"/>
 </p>
 
->  I'm **Krishn Kumar**, a final-year B.Tech student in **Electronics and Communication** from **MNNIT Allahabad**, with a strong inclination toward the software domain. I have a solid problem-solving background in **DSA**, strong knowledge of Computer subjects and i've built **projects** like an **HTTP Server**- A production-grade TCP-based server and **Rocket Rider**- A gesture-controlled browser game. I'm passionate about solving challenges and look forward to use my skills and  contribute as a **Software Developer**.
+>  I'm **Krishn Kumar**, a final-year B.Tech student in **Electronics and Communication** from **MNNIT Allahabad**, with a strong inclination toward the software domain. I have a solid problem-solving background in **DSA**, strong knowledge of Computer subjects and i've built **projects** like an **HTTP Server**- A production-grade TCP-based server and **Rocket Rider**- A gesture-controlled browser game. I'm passionate about solving challenges and looking forward to use my skills and  contribute as a **Software Developer**.
 
 Open [Krishn's Portfolio](https://kk-portfolio-taupe.vercel.app/) in your browser.
 
