@@ -49,4 +49,4 @@ I’m just a few keystrokes away—let's talk!!**
 
 ## Summary
 
->  This is a personal **3D portfolio** website built using **React** and **Tailwind CSS**. It's a single-page application that uses React Router for navigation and Vite as a build tool. The project's main feature is an interactive 3D environment created with **Three.js** and **@react-three/fiber**. The site showcases my skills and projects, including a **3D island model** that rotates to reveal different sections of the portfolio. An integrated contact form uses **EmailJS** to send messages.
+>  This is a personal **3D portfolio** website built using **React** and **Tailwind CSS**. It is a single-page application that uses React Router for navigation and Vite as a build tool. The project's main feature is an interactive 3D environment created with **Three.js** and **@react-three/fiber**. The site showcases my skills and projects, including a **3D island model** that rotates to reveal different sections of the portfolio. An integrated contact form uses **EmailJS** to send messages.
