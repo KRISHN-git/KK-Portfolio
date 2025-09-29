@@ -18,7 +18,7 @@ const About = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          A final-year ECE undergrad at MNNIT Allahabad with a strong interest in problem solving, data structures & algorithms, computer subjects and hands-on projects like a HTTP Server and Rocket-Rider.
+          A final-year ECE undergrad at MNNIT Allahabad with a strong interest in data structures & algorithms, problem solving,  computer subjects and hands-on projects like a HTTP Server and Rocket-Rider.
         </p>
       </div>
 
