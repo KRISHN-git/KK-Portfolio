@@ -17,7 +17,8 @@ import {
     server,
     tailwindcss,
     typescript,
-    assistant
+    assistant, 
+    snake
 } from "../assets/icons";
 
 export const skills = [
@@ -135,5 +136,12 @@ export const projects = [
         name: 'Voice-Buddy',
         description: 'Voice-Buddy is an AI-powered virtual assistant that uses voice commands to interact with the user. It is built with a React frontend and a Node.js backend. The application features user authentication, customizable assistant personas, and integrates with the Gemini API for natural language processing. The app can perform various tasks like answering general questions, searching Google and YouTube, and even providing real-time information such as the current date and time. It provides a personalized and hands-free experience, allowing users to control their search with their voice.',
         link: 'https://github.com/KRISHN-git/Voice-Buddy',
+    },
+    {
+        iconUrl: snake,
+        theme: 'btn-back-green',
+        name: 'Snake-Game',
+        description: 'A console-based Snake Game implemented in C++ that simulates an interactive experience. The player controls a snake to eat food, grow, and track their score while avoiding collisions with its own body. The project features intuitive Arrow Key and WASD controls, real-time self-collision detection, and a dynamic food system that includes both standard growing food and temporary special food for bonus points. Its simple console graphics ensure easy compilation and execution across platforms.',
+        link: 'https://github.com/KRISHN-git/Basic-Snake-Game',
     },
 ];

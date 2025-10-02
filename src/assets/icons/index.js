@@ -22,6 +22,7 @@ import server from './server.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import assistant from './assistant.png'
+import snake from './snake.png'
 
 
 export {
@@ -48,5 +49,6 @@ export {
     server,
     soundon,
     soundoff,
-    assistant
+    assistant, 
+    snake
 }
