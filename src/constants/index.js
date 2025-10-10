@@ -141,7 +141,7 @@ export const projects = [
         iconUrl: snake,
         theme: 'btn-back-blue',
         name: 'Snake-Game',
-        description: 'A console-based Snake Game implemented in C++ that simulates an interactive experience. The player controls a snake to eat food, grow, and track their score while avoiding collisions with its own body. The project features intuitive Arrow Key and WASD controls, real-time self-collision detection, and a dynamic food system that includes both standard growing food and temporary special food for bonus points. Its simple console graphics ensure easy compilation and execution across platforms.',
+        description: 'A console-based Snake Game implemented in C++ that simulates an interactive experience. The player controls a snake to eat food, grow, and track their score while avoiding collisions with its own body. The project features intuitive Arrow Key and WASD controls, real-time self-collision detection, and a dynamic food system that includes both standard growing food and temporary special food for bonus points and sound effects too. Its simple console graphics ensure easy compilation and execution across platforms.',
         link: 'https://github.com/KRISHN-git/Basic-Snake-Game',
     },
 ];
